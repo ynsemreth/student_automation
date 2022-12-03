@@ -1,0 +1,14 @@
+--------------------------------
+
+Name           : YUNUSEMRE
+Surname        : TAHA
+Which_Grade    : 2
+Gender         : MAN
+Average        : 67
+--------------------------------
+
+Name           : NAILENUR
+Surname        : TURKDONMEZ
+Which_Grade    : 2
+Gender         : WOMAN
+Average        : 78
